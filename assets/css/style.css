@@ -133,6 +133,11 @@ p {
   height: 100%;
 }
 
+.selfie {
+  height: 500px;
+  width: 350px;
+}
+
 /*===== All Button Style =====*/
 .main-btn {
   display: inline-block;
