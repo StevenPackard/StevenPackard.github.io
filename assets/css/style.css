@@ -169,8 +169,15 @@ p {
   text-transform: uppercase;
 }
 .work-pic {
-  height: 250px;
-  width: 350px;
+  height: 230px;
+  width: 300px;
+}
+.work-details {
+  color: black;
+  size: 14px;
+}
+.project-title {
+  text-transform: uppercase;
 }
 .mesh-img {
   background-image: url("/assets/images/mesh-1430107.png");
