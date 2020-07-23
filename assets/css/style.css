@@ -169,8 +169,8 @@ p {
   text-transform: uppercase;
 }
 .work-pic {
-  height: 360px;
-  width: 360px;
+  height: 250px;
+  width: 350px;
 }
 .mesh-img {
   background-image: url("/assets/images/mesh-1430107.png");
